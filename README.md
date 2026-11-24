@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./david-verma-animated-banner.gif" width="100%" alt="David Verma Animated Banner"/>
+<img src="./david-verma-banner-slow-fill.gif" width="100%" alt="David Verma Animated Banner"/>
 
 <br/>
 
